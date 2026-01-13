@@ -15,8 +15,11 @@
 
 - 🎓 Completed **ECE**
 - 💻 **Emerging Software Developer**
+  
 - 🧩 Built **23+ repositories** using modern web technologies
+  
 - 🌱 Constantly learning & experimenting
+  
 - ⚡ Passionate about full-stack development & real-world problem solving
 
 ---
@@ -59,48 +62,76 @@ Welcome to JavaScript 😄
 
 **🌐 Frontend**
 HTML5
+
 CSS3
+
 Tailwind CSS
+
 React.js
 
 🧠 Backend
+
 JavaScript
+
 Node.js
+
 Express.js
+
 Middleware Architecture
 
 🗄️ Database
+
 MongoDB
 
 🔗 APIs & Networking
+
 REST APIs
+
 Axios
 
 🔐 Authentication & Payments
+
 Firebase (Authentication & Storage)
+
 Razorpay
 
 ☁️ Deployment & Tools
+
 Vercel
+
 VS Code
 
 🧪 Other Skills
+
 Slight knowledge of TypeScript
+
 Clean Code Practices
+
 Component-Based Architecture
 
 🧬 Advanced Tech Arsenal & Experiments
 
 Full-stack MERN applications
+
 Firebase authentication & JWT concepts
+
 REST API design & integration
+
 Razorpay payment gateway integration
+
 Scalable middleware-based backend systems
+
 Deployment pipelines using Vercel
+
+
 🤖 Current AI Research & Projects
+
 Exploring AI-powered web features
+
 Integrating AI APIs with frontend apps
+
 Experimenting with intelligent UI behavior
+
 Planning AI-enhanced full-stack projects
 
 🚀 More coming soon…
@@ -108,32 +139,45 @@ Planning AI-enhanced full-stack projects
 😄 Developer Humor & Techy Vibes
 
 “It works on my machine.”
+
 — Every developer ever
 
 while (!success) {
+
   tryAgain();
+
 }
 
 🔥 Techy Vibes & Developer Life
 
 Late-night debugging 🌙
+
 Coffee-powered coding ☕
+
 Turning ideas into products 💡
+
 Breaking → Fixing → Learning 🔁
 
 🤝 Let’s Collaborate
 
 I’m open to:
+
 Open-source contributions
+
 Full-stack projects
+
 Startup ideas
+
 Learning-focused collaborations
+
 🚀 If you have something exciting, let’s build it together!
 
 🌐 Connect & Follow
 
 💼 GitHub: https://github.com/jaisreerajkumar
+
 🔗 LinkedIn: https://www.linkedin.com/in/jayasree-rajkumar-1698b31b1/
+
 📧 Email: jaisreerajkumar@gmail.com
 
 ⭐ Fun Fact:
