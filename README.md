@@ -53,7 +53,7 @@ Objects convert to `[object Object]`
 Welcome to JavaScript 😄
 
 </details>
-
+```
 
 ## 🛠️ Tech Stack & Skills
 
