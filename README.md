@@ -57,7 +57,7 @@ Welcome to JavaScript 😄
 </details>
 
 
-🛠️ Tech Stack & Skills
+##🛠️ Tech Stack & Skills
 
 🌐 Frontend
 HTML5
