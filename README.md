@@ -1,13 +1,42 @@
 # 👋 Hey there, I'm an Emerging Software Developer
 
-🚀 About Me
-Completed ECE
-Emerging Software Developer
-Built 23+ repositories using modern web technologies
-Constantly learning & experimenting with new tools
-Love building full-stack applications & solving real-world problems
+<p align="center">
+  ⭐ <b>Star my repos if you find them interesting!</b><br/>
+  🤝 <b>Let's connect and build something amazing together!</b>
+</p>
 
-🧩 JavaScript Riddle (Because Devs Love Logic)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaisreerajkumar&label=PROFILE%20VIEWS&color=6f42c1&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Completed **ECE**
+- 💻 **Emerging Software Developer**
+- 🧩 Built **23+ repositories** using modern web technologies
+- 🌱 Constantly learning & experimenting
+- ⚡ Passionate about full-stack development & real-world problem solving
+
+---
+
+## 📊 GitHub Stats (Dark Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaisreerajkumar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaisreerajkumar&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaisreerajkumar&theme=github_dark" />
+</p>
+
+---
+
+## 🧠 JavaScript Riddle (Because Devs Love Logic)
+
+**What will be the output?**
 
 ```js
 console.log([] + []);
@@ -15,6 +44,7 @@ console.log([] + {});
 console.log({} + []);
 
 🛠️ Tech Stack & Skills
+
 🌐 Frontend
 HTML5
 CSS3
@@ -48,64 +78,51 @@ Clean Code Practices
 Component-Based Architecture
 
 🧬 Advanced Tech Arsenal & Experiments
+
 Full-stack MERN applications
-Authentication flows (Firebase + JWT concepts)
+Firebase authentication & JWT concepts
 REST API design & integration
-Payment gateway integration (Razorpay)
+Razorpay payment gateway integration
 Scalable middleware-based backend systems
 Deployment pipelines using Vercel
-
 🤖 Current AI Research & Projects
-
 Exploring AI-powered web features
 Integrating AI APIs with frontend apps
 Experimenting with intelligent UI behavior
 Planning AI-enhanced full-stack projects
-(More coming soon… 🚀)
+
+🚀 More coming soon…
 
 😄 Developer Humor & Techy Vibes
 
 “It works on my machine.”
 — Every developer ever
 
-while(!success) {
+while (!success) {
   tryAgain();
 }
 
-**🔥 Techy Vibes & Developer Life**
+🔥 Techy Vibes & Developer Life
 
 Late-night debugging 🌙
 Coffee-powered coding ☕
 Turning ideas into products 💡
-Breaking things → Fixing things → Learning things
+Breaking → Fixing → Learning 🔁
 
-**🤝 Let’s Collaborate**
+🤝 Let’s Collaborate
 
 I’m open to:
 Open-source contributions
 Full-stack projects
 Startup ideas
 Learning-focused collaborations
-If you have something exciting, let’s build it together 🚀
+🚀 If you have something exciting, let’s build it together!
 
 🌐 Connect & Follow
-💼 GitHub:https://github.com/jaisreerajkumar
+
+💼 GitHub: https://github.com/jaisreerajkumar
 🔗 LinkedIn: https://www.linkedin.com/in/jayasree-rajkumar-1698b31b1/
 📧 Email: jaisreerajkumar@gmail.com
 
-<p align="center">
-  ⭐ <b>Star my repos if you find them interesting!</b>
-</p>
-
-<p align="center">
-  🤝 <b>Let's connect and build something amazing together!</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaisreerajkumar&label=PROFILE%20VIEWS&color=6f42c1&style=for-the-badge" />
-</p>
-
-
-All 23 repositories on my GitHub are built using the technologies listed above — each one a step forward in my developer journey.
-
-iews](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+⭐ Fun Fact:
+All 23 repositories reflect my journey through modern web development — learning by building.
