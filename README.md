@@ -43,6 +43,20 @@ console.log([] + []);
 console.log([] + {});
 console.log({} + []);
 
+""
+"[object Object]"
+0
+Why?
+
+Arrays convert to empty strings
+
+Objects convert to [object Object]
+{} is treated as a block, not an object
+Welcome to JavaScript 😄
+
+</details>
+
+
 🛠️ Tech Stack & Skills
 
 🌐 Frontend
