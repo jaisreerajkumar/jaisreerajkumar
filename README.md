@@ -43,18 +43,16 @@ console.log([] + []);
 console.log([] + {});
 console.log({} + []);
 
-""
-"[object Object]"
-0
-Why?
+<details>
+<summary>Why?</summary>
 
-Arrays convert to empty strings
+Arrays convert to empty strings  
+Objects convert to `[object Object]`  
+`{}` is treated as a block, not an object  
 
-Objects convert to [object Object]
-{} is treated as a block, not an object
 Welcome to JavaScript 😄
 
-</details> ""
+</details>
 
 
 ## 🛠️ Tech Stack & Skills
