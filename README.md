@@ -180,5 +180,5 @@ Learning-focused collaborations
 
 📧 Email: jaisreerajkumar@gmail.com
 
-⭐ Fun Fact:
+
 All 23 repositories reflect my journey through modern web development — learning by building.
