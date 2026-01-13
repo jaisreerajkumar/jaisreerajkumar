@@ -54,12 +54,12 @@ Objects convert to [object Object]
 {} is treated as a block, not an object
 Welcome to JavaScript 😄
 
-</details>
+</details> ""
 
 
-##🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-🌐 Frontend
+**🌐 Frontend**
 HTML5
 CSS3
 Tailwind CSS
