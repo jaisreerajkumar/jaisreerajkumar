@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaisreerajkumar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -69,7 +69,7 @@ Tailwind CSS
 
 React.js
 
-🧠 Backend
+**🧠 Backend**
 
 JavaScript
 
@@ -79,29 +79,29 @@ Express.js
 
 Middleware Architecture
 
-🗄️ Database
+**🗄️ Database**
 
 MongoDB
 
-🔗 APIs & Networking
+**🔗 APIs & Networking**
 
 REST APIs
 
 Axios
 
-🔐 Authentication & Payments
+**🔐 Authentication & Payments**
 
 Firebase (Authentication & Storage)
 
 Razorpay
 
-☁️ Deployment & Tools
+**☁️ Deployment & Tools**
 
 Vercel
 
 VS Code
 
-🧪 Other Skills
+**🧪 Other Skills**
 
 Slight knowledge of TypeScript
 
@@ -109,7 +109,7 @@ Clean Code Practices
 
 Component-Based Architecture
 
-🧬 Advanced Tech Arsenal & Experiments
+**🧬 Advanced Tech Arsenal & Experiments**
 
 Full-stack MERN applications
 
@@ -124,7 +124,7 @@ Scalable middleware-based backend systems
 Deployment pipelines using Vercel
 
 
-🤖 Current AI Research & Projects
+**🤖 Current AI Research & Projects**
 
 Exploring AI-powered web features
 
@@ -136,7 +136,7 @@ Planning AI-enhanced full-stack projects
 
 🚀 More coming soon…
 
-😄 Developer Humor & Techy Vibes
+**😄 Developer Humor & Techy Vibes**
 
 “It works on my machine.”
 
@@ -148,7 +148,7 @@ while (!success) {
 
 }
 
-🔥 Techy Vibes & Developer Life
+**🔥 Techy Vibes & Developer Life**
 
 Late-night debugging 🌙
 
@@ -158,7 +158,7 @@ Turning ideas into products 💡
 
 Breaking → Fixing → Learning 🔁
 
-🤝 Let’s Collaborate
+**🤝 Let’s Collaborate**
 
 I’m open to:
 
@@ -172,13 +172,12 @@ Learning-focused collaborations
 
 🚀 If you have something exciting, let’s build it together!
 
-🌐 Connect & Follow
+**🌐 Connect & Follow**
 
-💼 GitHub: https://github.com/jaisreerajkumar
+**💼 GitHub**: https://github.com/jaisreerajkumar
 
-🔗 LinkedIn: https://www.linkedin.com/in/jayasree-rajkumar-1698b31b1/
+**🔗 LinkedIn**: https://www.linkedin.com/in/jayasree-rajkumar-1698b31b1/
 
-📧 Email: jaisreerajkumar@gmail.com
-
+**📧 Email**: jaisreerajkumar@gmail.com
 
 All 23 repositories reflect my journey through modern web development — learning by building.
