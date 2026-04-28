@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm an Emerging Software Developer
+# 👋 Hey there, I'm an Software Developer
 
 <p align="center">
   ⭐ <b>Star my repos if you find them interesting!</b><br/>
@@ -69,6 +69,10 @@ Tailwind CSS
 
 React.js
 
+Figma
+
+Wordpress
+
 **🧠 Backend**
 
 JavaScript
@@ -100,6 +104,13 @@ Razorpay
 Vercel
 
 VS Code
+
+**🔗 DevOps**
+
+Kubernetes
+
+Docker
+
 
 **🧪 Other Skills**
 
@@ -180,4 +191,4 @@ Learning-focused collaborations
 
 **📧 Email**: jaisreerajkumar@gmail.com
 
-All 23 repositories reflect my journey through modern web development — learning by building.
+All 33 repositories reflect my journey through modern web development — learning by building.
