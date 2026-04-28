@@ -14,9 +14,9 @@
 ## 🚀 About Me
 
 - 🎓 Completed **ECE**
-- 💻 **Emerging Software Developer**
+- 💻 **Software Developer**
   
-- 🧩 Built **23+ repositories** using modern web technologies
+- 🧩 Built **30+ repositories** using modern web technologies
   
 - 🌱 Constantly learning & experimenting
   
